@@ -1,4 +1,4 @@
-# SMS Spam Classifier
+# 001 - SMS Spam Classifier
 
 This project documents the creation of a simple spam classifier to practice and understand the end-to-end workflow of a typical machine learning project. The model is built using Python, NLTK, and Scikit-learn.
 
