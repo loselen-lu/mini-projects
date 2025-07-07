@@ -1,7 +1,6 @@
 # 003 - Iris Species Predictor Web App
 
 ![Iris Predictor Web App](readme-assets/iris-predictor.png)
-*(Image: A screenshot of the web application's user interface showing the input fields and a prediction result.)*
 
 This project is a simple machine learning web application that predicts the species of an Iris flower based on its sepal and petal measurements.
 
